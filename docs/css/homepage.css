@@ -1,0 +1,80 @@
+body {
+margin: 0px;
+font-family: "courier new";
+
+background: #212121;
+color: white;
+line-height: 2;
+}
+
+h1.title {
+text-align: center;
+background-color: rgb(52, 53, 54);
+  font-family: georgia, "courier new";
+  font-size: 3.4em;
+  color:white;
+  padding: 25px 0;
+  margin-top: 0;
+/*position: fixed;
+top: 0;
+width: 100%;*/
+}
+h2 {
+  color: #ffffff;
+  font-family: "courier new";
+}
+
+img {
+
+  width: 100%;
+}
+
+p {
+margin-top: 0;
+margin-bottom: 18px;
+border: 1px solid white;
+padding:20px;
+
+font-size: 1.2em;
+line-height: 3;
+color: white;
+font-family: "courier new", garamond, helvetica, verdana, sans-serif;
+
+}
+
+
+ul{
+
+}
+
+
+.everything {
+
+/*border: 1.5px solid white;*/
+width: 90%;
+margin: 0 auto;
+max-width: 800px;
+
+}
+
+.cover {
+float:left;
+width:48%;
+}
+
+.intro {
+  float:right;
+width:48%;
+}
+
+@media screen and (max-width:800px) {
+
+  .cover {
+    float:none;
+    width:auto;
+  }
+  .intro {
+    float:none;
+    width:auto;
+  }
+}
