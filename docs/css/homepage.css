@@ -20,9 +20,7 @@ h1.title {
   top: 0;
   width: 100%;
 
-  .fade-in {
-  opacity: 50%;
-  transition:opacity 0.8s
+
   }
 
 }
