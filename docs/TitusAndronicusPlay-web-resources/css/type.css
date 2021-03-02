@@ -229,7 +229,7 @@ a {
 
 ul {
     list-style: none;
-    font-size: 1.3em;
+    font-size: 1.2em;
     margin: 0;
     padding-left: 0;
     float:center;
@@ -448,7 +448,7 @@ text-align: right;
 }
 
   h2.stagedirection_balance-text {
-  font-size: 75%;
+  font-size: 80%;
   font-style: italic;
 text-align: right;
 color: rgb(59, 59, 59);
