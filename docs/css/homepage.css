@@ -127,4 +127,12 @@ width:48%;
     float:none;
     width:auto;
   }
+  .videobox {
+    float:none;
+    width:auto;
+  }
+  .videobox iframe {
+    float:none;
+    width:auto;
+  }
 }
