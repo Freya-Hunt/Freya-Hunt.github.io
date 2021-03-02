@@ -232,9 +232,9 @@ ul {
     font-size: 1em;
     margin: 0;
     padding-left: 0;
-    float:right;
+    float:center;
     overflow: hidden;
-    background:black;
+    
     
     position:relative;
     top: 2rem;
@@ -285,7 +285,7 @@ min-width:4rem;
 
 li.home{
   flex: 1 0 auto;
-  text-align: center;
+  text-align: left;
   padding-left: 30;
   margin-left: 0;
 }
