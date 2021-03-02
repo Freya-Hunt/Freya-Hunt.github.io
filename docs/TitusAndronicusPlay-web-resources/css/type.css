@@ -154,7 +154,7 @@ p.song {
 
 }
 h2.stagedirection_balance-text {
-  font-size: 80%;
+  font-size: 60%;
   font-style: italic;
 text-align: right;
 color: rgb(59, 59, 59);
@@ -454,6 +454,12 @@ background-color: rgb(48, 48, 48);
 color:white;
 padding: 12px 0;
 
+}
+  h2.stagedirection_balance-text {
+  font-size: 75%;
+  font-style: italic;
+text-align: right;
+color: rgb(59, 59, 59);
 }
 
 }
