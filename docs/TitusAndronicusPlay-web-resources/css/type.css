@@ -39,7 +39,7 @@ section.play, section.dramatis  {
   border:rgb(48, 48, 48);
 }
 
-/* This extra style rule here makes sure that the linked location is not hidden inder the fixed header */
+
 h1 a, h2 a {
   margin-top: -2.4rem;
   padding-bottom: 2.4rem;
@@ -79,7 +79,7 @@ h1.playtitle {
 h1.act, h1.dramatishead, h1.playtitle {
 font-family: georgia;
 text-align: center;
-font-size: 1.7em;
+font-size: 2em;
 background-color: rgb(48, 48, 48);
 color:white;
 padding: 12px 0;
