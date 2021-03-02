@@ -134,7 +134,7 @@ h2.location {
 color:black;
 text-align: right;
 font-family: georgia;
-font-size: 1em;
+font-size: .5em;
 
 }
 p.playlocation {
@@ -452,6 +452,13 @@ text-align: right;
   font-style: italic;
 text-align: right;
 color: rgb(59, 59, 59);
+}
+  h2.location {
+color:black;
+text-align: right;
+font-family: georgia;
+font-size: 1em;
+
 }
 
 }
