@@ -82,7 +82,7 @@ h1.playtitle {
 h1.act, h1.dramatishead, h1.playtitle {
 font-family: georgia;
 text-align: center;
-font-size: 1.2em;
+font-size: 1em;
 background-color: rgb(48, 48, 48);
 color:white;
 padding: 12px 0;
