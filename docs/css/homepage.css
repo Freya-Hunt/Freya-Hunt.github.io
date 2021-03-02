@@ -135,4 +135,13 @@ width:48%;
     float:none;
     width:auto;
   }
+  .h2 {
+    font-size: 1.1em;
+  }
+  .p{
+    font-size: .8em;
+  }
+  .intro{
+    font-size: .8em;
+  }
 }
