@@ -353,7 +353,12 @@ ul li:hover > ul, ul li ul:hover {
 
 
   }
+    img {
+      width:100%;
+    display: flex;
+    float: none;
 
+    }
 
   }
 
@@ -452,10 +457,5 @@ font-family: georgia;
 font-size: 1em;
 
 }
-    img {
-      width:100%;
-    display: flex;
-    float: none;
 
-    }
 }
