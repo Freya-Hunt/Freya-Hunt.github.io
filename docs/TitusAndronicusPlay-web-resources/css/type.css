@@ -52,7 +52,7 @@ h1 a, h2 a {
 img {
   width: 75%;
     max-width: 800px;
-    margin: 2rem 0 2rem 2rem;
+    margin: 2rem 0 .5rem 2rem;
 
 
 
@@ -329,6 +329,7 @@ ul li:hover > ul, ul li ul:hover {
     float: none;
 
     }
+
 
 }
 
