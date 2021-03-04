@@ -89,7 +89,7 @@ padding: 12px 0;
 
 p.character {
 font-family: garamond;
-font-size: 1.3em;
+font-size: 1em;
 margin-bottom: 0;
 
 
@@ -283,8 +283,8 @@ min-width:4rem;
 li.home{
   flex: 1 0 auto;
   text-align: left;
-  padding-left: 30px;
-  margin-left: 5em;
+  padding-left: 30;
+  margin-left: 0;
 }
 
 nav ul li.home:hover{
