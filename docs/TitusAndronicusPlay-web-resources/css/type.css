@@ -284,7 +284,7 @@ li.home{
   flex: 1 0 auto;
   text-align: left;
   padding-left: 30px;
-  margin-left: 0;
+  margin-left: 5em;
 }
 
 nav ul li.home:hover{
