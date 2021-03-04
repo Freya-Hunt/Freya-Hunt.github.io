@@ -49,15 +49,12 @@ h1 a, h2 a {
 
 }
 
-img {
-  width: 75%;
-    max-width: 800px;
-    margin: 2rem 0 .5rem 2rem;
+  img {
+      width:75%;
+    display: flex;
+    float: none;
 
-
-
-}
-
+    }
 
 
 
@@ -89,7 +86,7 @@ padding: 12px 0;
 
 p.character {
 font-family: garamond;
-font-size: .5em;
+font-size: 1em;
 margin-bottom: 0;
 
 
@@ -323,12 +320,7 @@ ul li:hover > ul, ul li ul:hover {
       text-align: left;
     }
 
-    img {
-      width:75%;
-    display: flex;
-    float: none;
-
-    }
+  
 
 
 }
@@ -361,7 +353,7 @@ ul li:hover > ul, ul li ul:hover {
   }
   p.character {
 font-family: garamond;
-font-size: 1em;
+font-size: .5em;
 margin-bottom: 0;
 
 
@@ -465,5 +457,14 @@ font-family: georgia;
 font-size: 1em;
 
 }
+  img {
+  width: 75%;
+    max-width: 800px;
+    margin: 2rem 0 2rem 2rem;
+
+
+
+}
+
 
 }
