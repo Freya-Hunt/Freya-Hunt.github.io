@@ -322,12 +322,7 @@ ul li:hover > ul, ul li ul:hover {
     nav ul li a {
       text-align: left;
     }
-    img {
-      width:100%;
-    display: flex;
-    float: none;
 
-    }
 
 
 }
@@ -457,5 +452,10 @@ font-family: georgia;
 font-size: 1em;
 
 }
+    img {
+      width:100%;
+    display: flex;
+    float: none;
 
+    }
 }
