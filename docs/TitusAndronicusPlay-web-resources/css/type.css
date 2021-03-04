@@ -136,9 +136,9 @@ p.playlocation {
   color:black;
   text-align: center;
   font-family:  georgia;
-  font-size: 2em;
+  font-size: 1.5em;
   padding: 3px;
-    border-bottom:3px solid black;
+    border-bottom:2px solid black;
 
 }
 p.prose {
@@ -347,7 +347,7 @@ ul li:hover > ul, ul li ul:hover {
   p.playlocation {
 
 
-    font-size: 1.3em;
+    font-size: 1em;
 
 
   }
@@ -430,12 +430,7 @@ margin: 0 12px 0 60px;
 p.prose {
   margin-bottom: 12px;
 }
-  p.playlocation {
 
-
-  font-size: 2em;
-
-}
   p.charactername {
   font-size: 1em;
 margin:0 12px 0 40px;
