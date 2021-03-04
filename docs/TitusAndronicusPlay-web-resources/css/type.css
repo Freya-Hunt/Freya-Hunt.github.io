@@ -137,9 +137,9 @@ p.playlocation {
   text-align: center;
   font-family:  georgia;
   font-size: 2em;
-  padding: 3px -5px;
+  padding: 3px;
     border-bottom:3px solid black;
-border-top: 30px solid white;
+
 }
 p.prose {
 margin: 0 12px 15px 30px;
