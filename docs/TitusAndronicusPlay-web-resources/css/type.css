@@ -76,10 +76,10 @@ h1.playtitle {
 h1.act, h1.dramatishead, h1.playtitle {
 font-family: georgia;
 text-align: center;
-font-size: 1em;
+font-size: 2em;
 background-color: rgb(48, 48, 48);
 color:white;
-padding: 6px 0;
+padding: 12px 0;
 
 }
 
@@ -365,15 +365,7 @@ margin-bottom: 0;
 
 @media only screen and (min-width: 720px) {
   
-h1.act, h1.dramatishead, h1.playtitle {
-font-family: georgia;
-text-align: center;
-font-size: 2em;
-background-color: rgb(48, 48, 48);
-color:white;
-padding: 12px 0;
 
-}
 h1.act, h1.dramatishead {
   font-size: 200%;
 }
@@ -469,9 +461,8 @@ font-size: 1em;
   img {
   width: 100%;
     max-width: 800px;
-    margin: 2rem 0 2rem 2rem;
-    margin-top: 2rem;
-
+    margin: 2rem 2rem 2rem 2rem;
+   
 
 
 }
