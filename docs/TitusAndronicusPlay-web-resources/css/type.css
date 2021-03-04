@@ -89,7 +89,7 @@ padding: 12px 0;
 
 p.character {
 font-family: garamond;
-font-size: 1em;
+font-size: .5em;
 margin-bottom: 0;
 
 
@@ -359,6 +359,13 @@ ul li:hover > ul, ul li ul:hover {
 
 
   }
+  p.character {
+font-family: garamond;
+font-size: 1em;
+margin-bottom: 0;
+
+
+}
 
 
   }
