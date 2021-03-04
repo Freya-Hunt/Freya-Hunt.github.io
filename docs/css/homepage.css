@@ -28,7 +28,7 @@ h1.title {
 
 
 
-.gotoplay a {
+a.gotoplay {
   text-decoration: none;
   color: white;
 }
