@@ -232,9 +232,9 @@ ul {
     float:left;
     overflow: hidden;
     background: black;
-    
+    width: 15%;
     position:relative;
-    top: 2rem;
+    top: .2rem;
 
 }
 
@@ -323,7 +323,12 @@ ul li:hover > ul, ul li ul:hover {
       text-align: left;
     }
 
+    img {
+      width:100%;
+    display: flex;
+    float: none;
 
+    }
 
 }
 
@@ -353,12 +358,7 @@ ul li:hover > ul, ul li ul:hover {
 
 
   }
-    img {
-      width:100%;
-    display: flex;
-    float: none;
 
-    }
 
   }
 
